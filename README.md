@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Coursework Portfolio
+# 🛡️ Cybersecurity Coursework
 
 This repository serves as a portfolio and archive for work completed during my **Cybersecurity** studies. It's a collection of my hands-on experience, documentation, and policy creation projects.
 
