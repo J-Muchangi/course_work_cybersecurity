@@ -15,4 +15,7 @@ The coursework is organized into directories based on the type of project or doc
 | **`labs/`** | Scripts, configuration files, and steps taken for hands-on lab exercises |
 ---
 
+Notes
+Ensure to add references to policy, 85% - midterm
+
 ## 🤝 Connect
